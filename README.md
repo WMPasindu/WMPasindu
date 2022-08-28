@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/wmpasindu" target="blank"><img src="https://img.shields.io/twitter/follow/wmpasindu?logo=twitter&style=for-the-badge" alt="wmpasindu" /></a> </p>
 
-- 🔭 I’m currently working on **my research project for Masters**
+- 🔭 I’m currently working on **my research project for Masters (2022)**
 
 - 🌱 I’m currently learning **Python, R, Algorithms, AWS**
 

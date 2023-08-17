@@ -1,6 +1,6 @@
 [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/WMPasindu/WMPasindu)
 <h1 align="center">Hi 👋, I'm Pasindu Weerakoon</h1>
-<h3 align="center">Senior Software Engineer (Native and Hybrid mobile application development) From Sri Lanka</h3>
+<h3 align="center">Associate Technical Lead (Fullstack, Native and Hybrid mobile application development / Web Applications) From Sri Lanka</h3>
 
 <img align="right" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding">
 
@@ -16,7 +16,7 @@
 
 - Linkedin [www.linkedin.com/in/pasindu-weerakoon](www.linkedin.com/in/pasindu-weerakoon)
 
-- 💬 Ask me about **react-native, flutter, android (Java / Kotlin), iOS (swift), Javascript**
+- 💬 Ask me about **react-native, react, java, flutter, android (Java / Kotlin), iOS (swift), Javascript**
 
 - 📫 How to reach me **wmpasindu@gmail.com**
 
